@@ -1,0 +1,14 @@
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.AssemblyInfo.cs
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+C:\git\advent-of-code-23\1\bin\Debug\net8.0\1.exe
+C:\git\advent-of-code-23\1\bin\Debug\net8.0\1.deps.json
+C:\git\advent-of-code-23\1\bin\Debug\net8.0\1.runtimeconfig.json
+C:\git\advent-of-code-23\1\bin\Debug\net8.0\1.dll
+C:\git\advent-of-code-23\1\bin\Debug\net8.0\1.pdb
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.dll
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\refint\1.dll
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.pdb
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\1.genruntimeconfig.cache
+C:\git\advent-of-code-23\1\obj\Debug\net8.0\ref\1.dll
